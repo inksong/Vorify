@@ -49,7 +49,7 @@
        <string>Apple</string>
        <!-- required. the title to display during the download. -->
        <key>title</key>
-       <string>PKITokenMobile</string>
+       <string>mvorify</string>
       </dict>
     </dict>
   </array>
